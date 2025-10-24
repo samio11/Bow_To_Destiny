@@ -1,36 +1,111 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎯 Bow To Destiny
 
-## Getting Started
+> **Bow To Destiny** is a simple yet fun web-based **archery game** where players can test their aim, precision, and timing! Built with **Next.js** and **modern web technologies**, it delivers a smooth and interactive gaming experience right in your browser.
 
-First, run the development server:
+---
+
+## 🌐 Live Demo
+
+🎮 **Play Now:** [https://bow-to-destiny.vercel.app](https://bow-to-destiny.vercel.app)
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/cf5dc2d0-f565-400a-bdbf-dcefe043dd8c" />
+
+
+---
+
+## 🕹️ About the Game
+
+**Bow To Destiny** lets players shoot arrows at a target to score points. The goal is to hit the bullseye as accurately as possible before running out of arrows.
+
+**Gameplay Highlights:**
+
+* 🎯 Click and drag to aim your shot
+* 🏹 Release to fire arrows at the target
+* 🧮 Score points based on accuracy
+* 🔁 Restart anytime to improve your best score
+
+---
+
+## ✨ Features
+
+* Clean and responsive game design
+* Smooth arrow physics and shooting animation
+* Real-time scoring system
+* Engaging sound effects (optional mute control)
+* Simple restart option for replayability
+
+---
+
+## 🧰 Tech Stack
+
+* **Framework:** Next.js
+* **Styling:** Tailwind CSS
+* **Animation & Logic:** Custom JavaScript (Canvas / DOM-based)
+* **Deployment:** Vercel
+
+---
+
+## ⚙️ Getting Started
+
+To run **Bow To Destiny** locally:
 
 ```bash
+git clone https://github.com/samio11/Bow_To_Destiny.git
+cd Bow_To_Destiny
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📁 Project Structure
 
-## Learn More
+```text
+Bow_To_Destiny/
+├── public/               # Static assets (images, icons)
+├── src/
+│   ├── components/       # UI and reusable parts
+│   ├── pages/            # Game page and routes
+│   ├── styles/           # Global styles
+│   └── utils/            # Helper functions (if any)
+├── package.json
+├── next.config.js
+└── README.md
+```
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Deployment
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+The game is deployed on **Vercel** — easy, fast, and free for personal projects.
 
-## Deploy on Vercel
+To deploy your own version:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```bash
+npm run build
+vercel deploy
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 👨‍💻 Developer
+
+**Created by:** [Samio](https://github.com/samio11)
+
+* 🎮 Game: [Bow To Destiny Live](https://bow-to-destiny.vercel.app)
+* 💻 GitHub: [@samio11](https://github.com/samio11)
+
+---
+
+## 🧡 Acknowledgements
+
+* Inspired by classic archery mechanics 🎯
+* Built for fun and learning purposes
+
+---
+
+### 🏁 Ready, Aim, Fire!
+
+> Challenge yourself, hit the bullseye, and master your destiny in **Bow To Destiny!**
