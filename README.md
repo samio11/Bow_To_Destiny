@@ -8,7 +8,7 @@
 
 🎮 **Play Now:** [https://bow-to-destiny.vercel.app](https://bow-to-destiny.vercel.app)
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/cf5dc2d0-f565-400a-bdbf-dcefe043dd8c" />
+<img width="1052" height="641" alt="image" src="https://github.com/user-attachments/assets/fdffad99-6ed0-4241-aeec-e1913c844bbd" />
 
 
 ---
