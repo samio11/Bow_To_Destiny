@@ -641,7 +641,7 @@ export default function BowArrowGame() {
               <Target className="w-12 h-12 md:w-16 md:h-16 text-yellow-400" />
             </div>
             <h1 className="text-4xl md:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-orange-500 mb-4">
-              Archery Pro
+              Bow Of Destiny
             </h1>
             <p className="text-gray-300 text-base md:text-lg">
               Test your archery skills across multiple levels!
